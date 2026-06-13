@@ -82,21 +82,7 @@
 
 </div>
 
-<div align="center">
-  <h2><b>💻 SKILLS</b></h2>
-  <hr style="width:50%; border-top: 2px solid grey;" />
-</div>
-
-<div align="center">
-
-### 🔧 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark&perline=9" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=9" />
-
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,vscode,powershell&theme=dark&perline=9" />
+=9" />
 
 ## Contact Me 
   <p>
